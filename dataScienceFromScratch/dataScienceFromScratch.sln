@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Windows Desktop
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dataScienceFromScratch", "dataScienceFromScratch\dataScienceFromScratch.pyproj", "{74579A61-EE65-46AF-8E5D-4D7C12C19605}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DataScienceFromScratch", "DataScienceFromScratch\DataScienceFromScratch.pyproj", "{89E3885E-E2C8-4C77-BF8C-734590208CBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,8 +11,8 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{74579A61-EE65-46AF-8E5D-4D7C12C19605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74579A61-EE65-46AF-8E5D-4D7C12C19605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E3885E-E2C8-4C77-BF8C-734590208CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E3885E-E2C8-4C77-BF8C-734590208CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
