@@ -26,6 +26,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="DataScienceFromScratch.py" />
+    <Compile Include="ChapterFour.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="visualizing_data.py" />
   </ItemGroup>
   <PropertyGroup>
